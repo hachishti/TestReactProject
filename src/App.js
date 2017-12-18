@@ -2,9 +2,8 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-let varDefaultTextColor = '#fff';
 let varDefaultStyle = {
-  color: varDefaultTextColor
+  color: 'red'
 }
 class ChildClass extends Component{
 render(){
